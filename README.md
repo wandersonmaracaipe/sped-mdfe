@@ -1,8 +1,13 @@
-# SPED-MDFE v3.00a
+# SPED-MDFE v3.00
 
-Framework para geração e comunicação dos MDFe com as SEFAZ autorizadoras.
+Framework para geração e comunicação dos MDF-e (Manifesto Eletrônico de Documentos Fiscais) com as SEFAZ autorizadoras, e visa fornecer os meios para gerar, assinar e enviar os dados relativos ao projeto Sped MDF-e das SEFAZ.
 
-*sped-mdfe é um framework para geração MDFe e eventos na comunicação com as SEFAZ autorizadoras.*
+## Atualizado
+
+- Suporte aos leiautes e regras vigentes do MDF-e (Layout 3.00)
+- Suporte à chave de acesso com CNPJ alfanumérico (NT Conjunta DFe)
+- Eventos de encerramento, cancelamento e inclusão de condutor
+- Schema XSD CNPJ Alfa
 
 [![Build Status][ico-travis]][link-travis]
 [![Coverage Status][ico-scrutinizer]][link-scrutinizer]
